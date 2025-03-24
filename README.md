@@ -78,4 +78,4 @@ Download the **[ESP32 Robot Controller APK](#)** to remotely control the robot v
 
 ## 🏅 **Acknowledgments**
 
-This project was developed as part of **Robothon Quest Hackathon**. Special thanks to my team **Hossam Rouddasse** and **Fatima Zahra Sarma** , organizers, CRRT club of ENSA Agadir, and Code 212 for the opportunity to innovate!
+This project was developed as part of **Robothon Quest Hackathon**. Special thanks to my team members **Hossam Rouddasse** and **Fatima Zahra Sarma** and to the event organizers CRRT club of ENSA Agadir, and Code 212 for the opportunity to innovate!
